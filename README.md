@@ -15,4 +15,3 @@ ive use this script to generate sitemap for my WHMCS and HTML site and set cronj
 - cURL extension enabled
 - Web server (for Web usage)
 - Tested on php 8.1
-- فثسفث
